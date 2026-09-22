@@ -3,6 +3,7 @@
 Input: integer n
 Output: number of odd digits in n
 """
+
 def num_odd_digits(n):
     counter = 0
     while(n>0):
