@@ -5,7 +5,6 @@ Output: True if s contains at least one character and each char is a letter or d
         False otherwise
 """
 
-
 def is_alpha(s):
     if len(s) == 0:
         return False
